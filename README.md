@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I’m passionate about safeguarding people’s privacy and dedicated to making a positive impact. I have a strong interest in computers, technology, and software, and I’m always striving to find real-world solutions in the most neat way possible.<br><br>- 🔭 I'm aspiring to become a cybersecurity engineer<br>- 📚 I'm currently a Freshman Computer Science Student<br>- ⚡ I'm interested in computers, software, AI,  and cybersecurity</p>
+<p align="left">I’m passionate about safeguarding people’s privacy and dedicated to making a positive impact. I have a strong interest in computers, technology, and software, and I’m always striving to find real-world solutions in the most neat way possible.<br><br>- 🔭 I'm aspiring to become a cybersecurity engineer<br>- 📚 I'm currently a 1st year Computer Science Student<br>- ⚡ I'm interested in computers, software, AI,  and cybersecurity</p>
 
 ###
 
